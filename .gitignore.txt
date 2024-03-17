@@ -1,0 +1,2 @@
+testDir/
+similarity.pkl
