@@ -1,2 +1,2 @@
 testDir/
-similarity.pkl
+/similarity.pkl
